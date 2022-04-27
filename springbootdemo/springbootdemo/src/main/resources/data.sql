@@ -1,0 +1,6 @@
+INSERT INTO COURSE1(ID,AUTHOR,NAME)
+VALUES(10223232,'28 Minutes','Learn Angular and React');
+INSERT INTO COURSE1(ID,AUTHOR,NAME)
+VALUES(343433043,'28 Minutes','Learn Microservices');
+INSERT INTO COURSE1(ID,AUTHOR,NAME)
+VALUES(969767675,'28 Minutes','Learn Node.Js and full stack');
